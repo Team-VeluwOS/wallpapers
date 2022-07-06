@@ -1,2 +1,2 @@
-# wallpapers
-System Wallpaper.
+# VeluwOS Wallpapers
+VeluwOS's System Wallpapers.
